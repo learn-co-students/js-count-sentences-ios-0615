@@ -2,7 +2,7 @@
 
 ## Description 
 
-Write a function and set the function equal to the variable `countSentences`. The function should accpet a string such as "JavaScript has many testing frameworks. Some popular ones are Mocha and Jasmine." and returns the number of sentences. In this case it would be `2`.
+Write a function and set the function equal to the variable `countSentences`. The function should accept a string such as "JavaScript has many testing frameworks. Some popular ones are Mocha and Jasmine." and returns the number of sentences. In this case it would be `2`.
 
 ## Examples
 
