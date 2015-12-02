@@ -44,3 +44,5 @@ countSentences("")
 ## Resources
 
 * [MDN](https://developer.mozilla.org/) - [JavaScript Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+<a href='https://learn.co/lessons/js-count-sentences' data-visibility='hidden'>View this lesson on Learn.co</a>
